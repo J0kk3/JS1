@@ -1,0 +1,12 @@
+#progressBar
+{
+    height: 25px;
+    width: 400px;
+    background-color: black;
+}
+#progressBox
+{
+    height: 25px;
+    width: 400px;
+    background-color: hotpink;
+}

@@ -1,0 +1,12 @@
+*
+{
+    background-color: black;
+    color: white;
+}
+body *
+{
+    background-color: black;
+    color: white;
+    border: dashed 1px white;
+    margin: 1rem;
+}

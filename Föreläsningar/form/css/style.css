@@ -1,0 +1,24 @@
+input:hover
+{
+    background-color: blueviolet;
+}
+input:focus
+{
+    background-color: hotpink;
+}
+input:active
+{
+    border-color: red;
+}
+input:required
+{
+    border: 5px solid red;
+}
+input:invalid
+{
+    color:red;
+}
+input:valid
+{
+    color: green;
+}

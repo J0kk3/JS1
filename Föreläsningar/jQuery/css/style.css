@@ -1,0 +1,20 @@
+#firstDiv
+{
+    width: 250px;
+    height: 250px;
+    background-color: bisque;
+
+    opacity: 1;
+    border-radius: 0%;
+    transition: opacity 1s;
+    transition: border-radius 1s;
+}
+#firstDiv:hover
+{
+    opacity: 0;
+    border-radius: 100%;
+}
+#animDiv
+{
+    background-color: hotpink;
+}

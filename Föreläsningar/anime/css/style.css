@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+div
+{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin: 1rem;
+}
+h1
+{
+    width: 50px;
+    margin: 2rem auto;
+    text-align: center;
+    border: 1px wheat solid;
+    filter: blur(2px);
+    cursor: "default";
+}
+button
+{
+    box-shadow: 2px 3px 5px wheat;
+    filter: blur(1px);
+}
+.controls
+{
+    margin: 2rem;
+    text-align: center;
+}
+.animation div
+{
+    width: 39px;
+    height: 30px;
+    background-color: hotpink;
+    border-radius: 50%;
+    position: absolute;
+}

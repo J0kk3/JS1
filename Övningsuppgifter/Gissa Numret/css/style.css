@@ -1,0 +1,16 @@
+*
+{
+    background-color: black;
+    color: white;
+}
+button
+{
+    border-radius: 100%;
+    background-color: hotpink;
+    color: black;
+    border: 1px pink solid;
+    text-align: center;
+    padding: 0.5rem 0.75rem;
+    font-weight: bold;
+    margin: 0.25rem;
+}
